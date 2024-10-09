@@ -1,0 +1,26 @@
+{
+    "username": "minjae.k",
+    "birthdate": {
+        "year": 2002,
+        "month": 12,
+        "day": 2
+    },
+    "fullname": "minjae",
+    "clientVersion": "3.10.0",
+    "device": "iPhone14,5 17.6.1",
+    "deviceId": "1D9DC3EA-020C-46A0-BB64-26B0598F0DC0",
+    "phoneNumber": "+821089896474",
+    "profilePicture": {
+        "path": "Photos/iVkH1ljxruQMdiX6bixQvMbcJBu2/profile/-xEuvfj-HXUZNr38kA1Zy.webp",
+        "bucket": "storage.bere.al",
+        "height": "500",
+        "width": "500"
+    },
+    "location": "Seoul, South Korea",
+    "platform": 1,
+    "countryCode": "KR",
+    "language": "en",
+    "timezone": "America/Los_Angeles",
+    "region": "us-central",
+    "createdAt": "2022-07-27T18:41:00.961Z"
+}

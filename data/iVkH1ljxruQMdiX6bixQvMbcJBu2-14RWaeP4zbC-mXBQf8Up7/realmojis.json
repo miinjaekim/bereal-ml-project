@@ -1,0 +1,84 @@
+[
+    {
+        "createdAt": "2023-02-10T09:56:25.567Z",
+        "emoji": "😍",
+        "isEnabled": true,
+        "media": {
+            "bucket": "storage.bere.al",
+            "height": 500,
+            "path": "Photos/iVkH1ljxruQMdiX6bixQvMbcJBu2/realmoji/e1e85925-b4a3-46ca-ac24-cedfa7605dfe-PyYQThxzpCj5hT4t-heartEyes-1662651332.jpg",
+            "width": 500,
+            "mediaType": "image"
+        }
+    },
+    {
+        "createdAt": "2023-02-10T09:56:25.567Z",
+        "emoji": "😃",
+        "media": {
+            "bucket": "storage.bere.al",
+            "height": 500,
+            "path": "Photos/iVkH1ljxruQMdiX6bixQvMbcJBu2/realmoji/-U-VXxu9s2_vFFkR.webp",
+            "width": 500,
+            "mediaType": "image"
+        }
+    },
+    {
+        "createdAt": "2023-02-10T09:56:25.567Z",
+        "emoji": "😂",
+        "isEnabled": true,
+        "media": {
+            "bucket": "storage.bere.al",
+            "height": 500,
+            "path": "Photos/iVkH1ljxruQMdiX6bixQvMbcJBu2/realmoji/_2j-UQOXDYY70XCw.webp",
+            "width": 500,
+            "mediaType": "image"
+        }
+    },
+    {
+        "createdAt": "2023-02-10T09:56:25.567Z",
+        "emoji": "👍",
+        "isEnabled": true,
+        "media": {
+            "bucket": "storage.bere.al",
+            "height": 500,
+            "path": "Photos/iVkH1ljxruQMdiX6bixQvMbcJBu2/realmoji/80f62f57-e9cc-4f90-a8d7-6656050cadf5-cavxIbiFQVhV836O-up-1662020886.jpg",
+            "width": 500,
+            "mediaType": "image"
+        }
+    },
+    {
+        "createdAt": "2023-02-19T14:24:05.236Z",
+        "emoji": "😲",
+        "media": {
+            "bucket": "storage.bere.al",
+            "height": 500,
+            "path": "Photos/iVkH1ljxruQMdiX6bixQvMbcJBu2/realmoji/K8QfVYQZjr4qu2Z3.webp",
+            "width": 500,
+            "mediaType": "image"
+        }
+    },
+    {
+        "createdAt": "2023-05-12T10:40:51.760Z",
+        "emoji": "😃",
+        "isEnabled": true,
+        "media": {
+            "bucket": "storage.bere.al",
+            "height": 500,
+            "path": "Photos/iVkH1ljxruQMdiX6bixQvMbcJBu2/realmoji/CzX7jD_dOaCd83OE.webp",
+            "width": 500,
+            "mediaType": "image"
+        }
+    },
+    {
+        "createdAt": "2023-04-30T14:44:08.273Z",
+        "emoji": "😲",
+        "isEnabled": true,
+        "media": {
+            "bucket": "storage.bere.al",
+            "height": 500,
+            "path": "Photos/iVkH1ljxruQMdiX6bixQvMbcJBu2/realmoji/SrCG0cErqPvHNoV7.webp",
+            "width": 500,
+            "mediaType": "image"
+        }
+    }
+]
